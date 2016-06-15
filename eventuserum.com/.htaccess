@@ -1,3 +1,0 @@
-# Set PHP handler to application/x-httpd-phpbeta on Mon Jan 11 23:04:28 MST 2016.
-AddHandler application/x-httpd-phpbeta .php
-ErrorDocument 404 http://www.eventuserum.com/404.html
