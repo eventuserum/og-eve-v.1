@@ -1,0 +1,6 @@
+[12-Nov-2015 07:02:20 UTC] wizard_viewed
+[12-Nov-2015 07:02:27 UTC] wizard_disabled
+[12-Nov-2015 07:06:24 UTC] mojo_plugin_deactivated
+[12-Nov-2015 07:08:17 UTC] PHP Fatal error:  Cannot redeclare hello_dolly_get_lyric() (previously declared in /home1/eventuse/public_html/broketlist/wp-content/plugins/hello.php:44) in /home1/eventuse/public_html/broketlist/wp-content/plugins/hello-dolly/hello.php on line 51
+[12-Nov-2015 07:08:18 UTC] PHP Fatal error:  Cannot redeclare hello_dolly_get_lyric() (previously declared in /home1/eventuse/public_html/broketlist/wp-content/plugins/hello.php:44) in /home1/eventuse/public_html/broketlist/wp-content/plugins/hello-dolly/hello.php on line 51
+[12-Nov-2015 07:08:18 UTC] PHP Fatal error:  Cannot redeclare hello_dolly_get_lyric() (previously declared in /home1/eventuse/public_html/broketlist/wp-content/plugins/hello.php:44) in /home1/eventuse/public_html/broketlist/wp-content/plugins/hello-dolly/hello.php on line 51
